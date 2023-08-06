@@ -13,7 +13,7 @@
 		08CF8CF82A7F228700C423A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08CF8CF62A7F228700C423A3 /* Main.storyboard */; };
 		08CF8CFA2A7F228900C423A3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 08CF8CF92A7F228900C423A3 /* Assets.xcassets */; };
 		08CF8CFD2A7F228900C423A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08CF8CFB2A7F228900C423A3 /* LaunchScreen.storyboard */; };
-		08CF8D082A805A9900C423A3 /* Prework.gif in Resources */ = {isa = PBXBuildFile; fileRef = 08CF8D072A805A9900C423A3 /* Prework.gif */; };
+		08CF8D0A2A805F9600C423A3 /* Prework.gif in Resources */ = {isa = PBXBuildFile; fileRef = 08CF8D092A805F9600C423A3 /* Prework.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +26,7 @@
 		08CF8CFC2A7F228900C423A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08CF8CFE2A7F228900C423A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		08CF8D042A7F295300C423A3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		08CF8D072A805A9900C423A3 /* Prework.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Prework.gif; sourceTree = "<group>"; };
+		08CF8D092A805F9600C423A3 /* Prework.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Prework.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +44,7 @@
 			isa = PBXGroup;
 			children = (
 				08CF8D042A7F295300C423A3 /* README.md */,
-				08CF8D072A805A9900C423A3 /* Prework.gif */,
+				08CF8D092A805F9600C423A3 /* Prework.gif */,
 				08CF8CEF2A7F228700C423A3 /* iOS101-Prework */,
 				08CF8CEE2A7F228700C423A3 /* Products */,
 			);
@@ -131,7 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				08CF8CFD2A7F228900C423A3 /* LaunchScreen.storyboard in Resources */,
-				08CF8D082A805A9900C423A3 /* Prework.gif in Resources */,
+				08CF8D0A2A805F9600C423A3 /* Prework.gif in Resources */,
 				08CF8CFA2A7F228900C423A3 /* Assets.xcassets in Resources */,
 				08CF8CF82A7F228700C423A3 /* Main.storyboard in Resources */,
 			);
