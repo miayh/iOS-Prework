@@ -24,6 +24,7 @@
 		08CF8CF92A7F228900C423A3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		08CF8CFC2A7F228900C423A3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		08CF8CFE2A7F228900C423A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08CF8D042A7F295300C423A3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		08CF8CE42A7F228700C423A3 = {
 			isa = PBXGroup;
 			children = (
+				08CF8D042A7F295300C423A3 /* README.md */,
 				08CF8CEF2A7F228700C423A3 /* iOS101-Prework */,
 				08CF8CEE2A7F228700C423A3 /* Products */,
 			);
